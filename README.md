@@ -17,4 +17,9 @@ In postman
 node server.js
 
 
+## GitHub repository link : https://github.com/fmisriya/fitness.git
+
+
+### live deployment link: https://fitness-zvs1.onrender.com
+
 No challenges faced.
